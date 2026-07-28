@@ -1,0 +1,1811 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Braws Stars</title>
+
+  <style>
+
+    *{
+      margin:0;
+      padding:0;
+      box-sizing:border-box;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+
+    body{
+      background:linear-gradient(to bottom, #1b0033, #32004d);
+      min-height:100vh;
+      display:flex;
+      justify-content:center;
+      align-items:center;
+      padding:40px;
+    }
+
+    .container{
+      display:flex;
+      flex-direction:column;
+      gap:35px;
+      align-items:center;
+    }
+
+    .card{
+      width:850px;
+      background:#2b0047;
+      border-radius:30px;
+      padding:35px;
+      box-shadow:0 0 25px rgba(255, 217, 0, 0.4);
+      border:4px solid #ffd700;
+      position:relative;
+      transition:0.3s;
+    }
+
+    .card:hover{
+      transform:translateY(-5px) scale(1.01);
+      box-shadow:0 0 35px rgba(255, 217, 0, 0.7);
+    }
+
+    .card::before{
+      content:"";
+      position:absolute;
+      top:0;
+      left:0;
+      width:100%;
+      height:10px;
+      border-radius:30px 30px 0 0;
+      background:linear-gradient(to right, #ffcc00, #ff5e00);
+    }
+
+    h1{
+      color:#ffd700;
+      margin-bottom:15px;
+      font-size:42px;
+      text-align:center;
+      text-shadow:0 0 10px #ffae00;
+    }
+
+    .card h2{
+      color:#ffcc00;
+      margin-bottom:20px;
+      font-size:28px;
+      text-align:center;
+      text-shadow:0 0 8px #ff9900;
+    }
+
+    .card p{
+      color:#f2f2f2;
+      font-size:20px;
+      line-height:1.8;
+      text-align:justify;
+    }
+
+    .imagem img{
+      width:100%;
+      max-width:850px;
+      height:auto;
+      border-radius:25px;
+      border:4px solid #ffd700;
+      box-shadow:0 0 25px rgba(255, 217, 0, 0.5);
+    }
+
+  </style>
+</head>
+
+<body>
+
+  <div class="container">
+
+     
+    <h1>BRAWS STARS</h1>
+    
+
+    <div class="card">
+
+      <h2>Shelly</h2>
+
+      <p>
+        Shelly é uma brawler da classe Destruidora e de raridade Inicial no Brawl Stars. 
+        Ela é conhecida pelo seu estilo agressivo e pela espingarda poderosa que causa 
+        muito dano de perto. Muitos jogadores gostam dela por ser fácil de aprender e 
+        muito divertida de usar. Seu Super consegue empurrar inimigos e mudar o rumo das
+         partidas rapidamente. Shelly é considerada uma das personagens mais clássicas 
+         e icônicas do jogo.
+         Título: Chega De Papo!
+
+      </p>
+
+    </div>
+
+    <div class="card">
+
+      <h2>Nita</h2>
+
+      <p>
+        Nita é uma brawler da classe Destruidora e de raridade Rara no Brawl Stars.
+         Ela é conhecida por atacar ondas de choque e invocar um grande urso para 
+         ajudar nas batalhas. Muitos jogadores gostam da Nita por seu estilo agres
+         sivo e pela pressão que consegue fazer nos inimigos. Seu urso pode proteger
+          aliados, perseguir adversários e controlar áreas do mapa. Nita é considerada
+           uma personagem forte, divertida e muito marcante no jogo.
+           Título: Fera Indomada
+
+      </p>
+
+    </div>
+
+    <div class="card">
+
+      <h2>Colt</h2>
+
+      <p>
+       Colt é um brawler da classe Destruidor e de raridade Inicial no Brawl Stars.
+        Ele é conhecido por suas pistolas rápidas e pelo alto dano à distância,
+         sendo ótimo para eliminar inimigos rapidamente. Muitos jogadores gostam
+          do Colt por sua velocidade, precisão e estilo habilidoso de jogo.
+           Seu Super dispara uma longa sequência de tiros capazes de destruir
+            obstáculos e causar muito dano. Colt é considerado um dos personagens
+             mais clássicos e estilosos do jogo.
+             Título: Beldade
+
+      </p>
+
+    </div>
+ <div class="card">
+
+      <h2>Bull</h2>
+
+      <p>
+      Bull é um brawler da classe Tanque e de raridade Rara no Brawl Stars.
+       Ele é conhecido pela sua enorme quantidade de vida e pela poderosa 
+       escopeta que causa muito dano de perto. Muitos jogadores gostam do
+        Bull pelo estilo agressivo e pela capacidade de avançar rapidamente
+         contra os inimigos. Seu Super permite correr em linha reta destruindo
+          obstáculos e surpreendendo adversários. Bull é considerado um perso
+          nagem forte, resistente e muito divertido de jogar.
+          Título: O Brabo
+
+
+      </p>
+
+    </div>
+     <div class="card">
+
+      <h2>Brock</h2>
+
+      <p>
+       Brock é um brawler da classe Atirador e de raridade Rara no Brawl Stars.
+        Ele é conhecido por lançar foguetes de longo alcance que causam grande
+         dano nos inimigos. Muitos jogadores gostam do Brock pela sua mobili
+         dade e pela facilidade de controlar áreas do mapa. Seu Super dispara 
+         vários foguetes ao mesmo tempo, causando explosões em uma grande área.
+          Brock é considerado um personagem estiloso, estratégico e muito
+           forte à distância. Título: Buuum!
+
+
+      </p>
+
+    </div>
+     <div class="card">
+
+      <h2>El Primo</h2>
+
+      <p>
+    El Primo é um brawler da classe Tanque e de raridade Rara no Brawl Stars.
+     Ele é conhecido pelo seu estilo de luta inspirado em lutadores de
+      wrestling e pelos fortes ataques de curta distância. Muitos jogadores
+       gostam do El Primo por sua resistência e pela facilidade de pressionar
+        os inimigos. Seu Super permite dar um grande salto, causando
+         dano e afastando adversários ao aterrissar. El Primo é con
+         siderado um personagem divertido, carismático e muito
+          agressivo nas partidas. Título: El Luchador
+
+
+      </p>
+
+    </div>
+     <div class="card">
+
+      <h2>Barley</h2>
+
+      <p>
+       Barley é um brawler da classe Arremessador e de raridade Rara no Brawl Stars.
+        Ele é conhecido por lançar garrafas que espalham dano em área e dificultam
+         a movimentação dos inimigos. Muitos jogadores gostam do Barley pelo seu 
+         estilo estratégico e pela capacidade de controlar partes do mapa. 
+         Seu Super lança várias garrafas ao mesmo tempo, criando uma grande
+          área de dano contínuo. Barley é considerado um personagem inteligente
+          , irritante para os adversários e muito útil em equipe.
+          Título: Pede a conta!
+
+      </p>
+
+    </div>
+     <div class="card">
+
+      <h2>Poco</h2>
+
+      <p>
+      Poco é um brawler da classe Suporte e de raridade Rara no Brawl Stars.
+       Ele é conhecido por atacar usando ondas sonoras de sua guitarra e por
+        conseguir curar aliados com seu Super. Muitos jogadores gostam do 
+        Poco pelo seu estilo divertido e pela grande utilidade em equipe.
+         Seu Super recupera muita vida dos companheiros próximos, ajudan
+         do a manter o time vivo por mais tempo. 
+         Poco é considerado um personagem carismático, estratégico e muito
+          importante em batalhas em grupo. Título: El Mariachi
+
+      </p>
+
+    </div>
+     <div class="card">
+
+      <h2>Rosa</h2>
+
+      <p>
+       Rosa é uma brawler da classe Tanque e de raridade Rara no Brawl Stars.
+        Ela é conhecida pelos seus fortes golpes de curta distância e pela
+         enorme resistência nas batalhas. Muitos jogadores lembram principal
+         mente do “apocalipse da Rosa” em 2019, quando ela foi lançada extre
+         mamente forte e dominou praticamente todas as partidas do jogo.
+          Seu Super cria um escudo poderoso que reduz muito o dano recebido,
+           tornando-a ainda mais difícil de derrotar. Rosa é considerada uma
+            personagem agressiva, resistente e muito marcante na história do Brawl Stars.
+            Título: Tomando um ar
+
+      </p>
+
+    </div>
+     <div class="card">
+
+      <h2>Jessie</h2>
+
+      <p>
+       Jessie é uma brawler da classe Controladora e de raridade Super-rara no Brawl Stars.
+        Ela é conhecida pelos seus tiros elétricos que ricocheteiam entre inimigos próximos,
+         causando pressão em equipe. Muitos jogadores gostam da Jessie pelo seu estilo
+          estratégico e pela sua torre automática, chamada Scrappy, que ajuda a controlar
+           áreas do mapa. Seu Super invoca essa torre, que ataca inimigos automaticamente
+            e pode ser muito irritante durante as partidas. Jessie é considerada uma perso
+            nagem inteligente, divertida e muito útil em vários modos de jogo.Título: Pau para toda obra
+
+
+      </p>
+
+    </div>
+      <div class="card">
+
+      <h2>Dynamike</h2>
+
+      <p>
+      Dynamike é um brawler da classe Arremessador e de raridade Super-rara no Brawl Stars.
+       Ele é conhecido por lançar dinamites que causam grande dano em área e exigem boa mira
+        dos jogadores. Muitos gostam do Dynamike pelo seu estilo divertido e pelas jogadas
+         impressionantes que consegue fazer. Seu Super lança um enorme barril explosivo capaz
+          de destruir obstáculos e causar muito dano nos inimigos. Dynamike é considerado um
+           personagem habilidoso, caótico e muito marcante no jogo. Título: Carga Explosiva.
+
+
+      </p>
+
+    </div>
+      <div class="card">
+
+      <h2>Tick</h2>
+
+      <p>
+      Tick é um brawler da classe Arremessador e de raridade Super-rara no Brawl Stars.
+       Ele é conhecido por lançar minas que se espalham pelo chão e dificultam a movi
+       mentação dos inimigos. Muitos jogadores gostam do Tick pelo seu enorme alcance
+        e pela capacidade de controlar áreas do mapa facilmente. Seu Super faz sua cabeça
+         explosiva perseguir adversários e causar muito dano ao explodir. Tick é conside
+         rado um personagem irritante, estratégico e muito forte para pressionar inimigos de longe.
+         Título: Perdi a Cabeça
+
+
+      </p>
+
+    </div>
+      <div class="card">
+
+      <h2>8-Bit</h2>
+
+      <p>
+       8-BIT é um brawler da classe Destruidor e de raridade Super-rara no Brawl Stars. 
+       Ele é conhecido pelos seus ataques de laser com alto dano e pelo enorme alcance
+        nas batalhas. Muitos jogadores gostam do 8-BIT por sua força ofensiva e pelo 
+        estilo inspirado em videogames retrô. Seu Super coloca uma torre que aumenta
+         o dano dos aliados próximos, ajudando bastante a equipe. 8-BIT é considerado
+          um personagem poderoso, estratégico e muito marcante no jogo. Título: SYS 64738
+
+
+      </p>
+
+    </div>
+      <div class="card">
+
+      <h2>Rico</h2>
+
+      <p>
+      Rico é um brawler da classe Destruidor e de raridade Super-rara no Brawl Stars.
+       Ele é conhecido pelos seus tiros que ricocheteiam nas paredes, permitindo ataques
+        criativos e difíceis de escapar. Muitos jogadores gostam do Rico pelo seu estilo
+         habilidoso e pela capacidade de controlar corredores estreitos do mapa. Seu Supe
+         r dispara uma grande sequência de balas de longo alcance que podem causar muito
+          dano rapidamente. Rico é considerado um personagem estratégico, divertido e mu
+          ito forte nas mãos de jogadores experientes. Título: Amável
+
+
+      </p>
+
+    </div>
+      <div class="card">
+
+      <h2>Darryl</h2>
+
+      <p>
+       Darryl é um brawler da classe Tanque e de raridade Super-rara no Brawl Stars.
+        Ele é conhecido por suas duas escopetas poderosas e pelo seu estilo agressivo
+         de combate. Muitos jogadores gostam do Darryl pela sua resistência e pela 
+         facilidade de surpreender inimigos com seu Super. Seu Super faz ele rolar
+          rapidamente pelo mapa, causando dano e iniciando ataques de forma inesperada.
+           Darryl é considerado um personagem divertido, resistente e muito forte
+            em combates de curta distância. Título: Barril Pirata
+
+      </p>
+
+    </div>
+      <div class="card">
+
+      <h2>Penny</h2>
+
+      <p>
+       Penny é uma brawler da classe Controladora e de raridade Super-rara no Brawl Stars.
+        Ela é conhecida pelos seus ataques com moedas que atingem vários inimigos quando
+         acertam alguém. Muitos jogadores gostam da Penny pelo seu estilo estratégico e
+          pela capacidade de controlar áreas do mapa. Seu Super invoca um canhão que dispa
+          ra bombas de longa distância, causando pressão constante nos adversários. 
+          Penny é considerada uma personagem inteligente, irritante para os inimigos 
+          e muito útil em equipe. Título: Apelou, perdeu!
+
+
+      </p>
+
+    </div>
+      <div class="card">
+
+      <h2>Carl</h2>
+
+      <p>
+      Carl é um brawler da classe Destruidor e de raridade Super-rara no Brawl Stars.
+       Ele é conhecido por atacar lançando sua picareta, que volta para ele depois
+        de atingir certa distância. Muitos jogadores gostam do Carl pela sua versa
+        tilidade e pela facilidade de causar dano constante nos inimigos. Seu Super
+         faz ele girar rapidamente enquanto se movimenta, causando dano em todos os
+          adversários próximos. Carl é considerado um personagem forte, estratégico
+           e muito divertido de jogar. Título: Abalo sísmico
+
+
+      </p>
+
+    </div>
+      <div class="card">
+
+      <h2>Jacky</h2>
+
+      <p>
+      Jacky é uma brawler da classe Tanque e de raridade Super-rara no Brawl Stars.
+       Ela é conhecida pela sua britadeira poderosa, capaz de atacar todos os inimigos
+        ao redor ao mesmo tempo. Muitos jogadores gostam da Jacky pelo seu estilo 
+        agressivo e pela facilidade de pressionar adversários em curta distância. 
+        Seu Super puxa inimigos próximos, criando ótimas oportunidades para causar 
+        muito dano rapidamente. Jacky é considerada uma personagem resistente, caótic
+         e muito forte em combates próximos. Título: &#$*%@!
+
+
+      </p>
+
+    </div>
+      <div class="card">
+
+      <h2>Gus</h2>
+
+      <p>
+       Gus é um brawler da classe Suporte e de raridade Super-rara no Brawl Stars.
+        Ele é conhecido por usar balões espirituais para atacar inimigos e ajudar
+         aliados durante as partidas. Muitos jogadores gostam do Gus pelo seu esti
+         lo diferente e pela capacidade de proteger companheiros de equipe. Seu
+          Super cria um escudo espiritual em um aliado ou nele mesmo, reduzindo 
+          bastante o dano recebido. Gus é considerado um personagem estratégico,
+           criativo e muito útil em equipe. Título: Bu!
+
+
+      </p>
+
+    </div>
+      <div class="card">
+
+      <h2>Bo</h2>
+
+      <p>
+       Bo é um brawler da classe Controlador e de raridade Épica no Brawl Stars.
+        Ele é conhecido por disparar flechas explosivas que causam dano em área
+         e ajudam a controlar o mapa. Muitos jogadores gostam do Bo pelo seu estilo
+          estratégico e pela capacidade de prever os movimentos dos inimigos. Seu
+           Super coloca minas invisíveis no chão, que explodem quando adversários
+            passam por cima. Bo é considerado um personagem inteligente, versátil
+             e muito forte em modos estratégicos. Título: Força da Natureza
+
+
+      </p>
+
+    </div>
+     <div class="card">
+
+      <h2>Emz</h2>
+
+      <p>
+     Emz é uma brawler da classe Controladora e de raridade Épica no Brawl Stars.
+      Ela é conhecida por usar spray de cabelo para causar dano contínuo nos 
+      inimigos à distância. Muitos jogadores gostam da Emz pelo seu estilo moderno
+       e pela facilidade de controlar áreas do mapa. Seu Super cria uma zona que 
+       desacelera adversários próximos enquanto causa dano constante. Emz é consi
+       derada uma personagem estilosa, irritante para os inimigos e muito forte
+        em combates em grupo. Título: #Haters
+
+
+      </p>
+
+    </div>
+     <div class="card">
+
+      <h2>Stu</h2>
+
+      <p>
+       Stu é um brawler da classe Assassino e de raridade Épica no Brawl Stars.
+        Ele é conhecido pela sua alta mobilidade e pelos avanços rápidos que 
+        consegue fazer durante as partidas. Muitos jogadores gostam do Stu pelo
+         estilo habilidoso e pelas jogadas rápidas que exigem reflexos e precisão.
+          Seu Super permite dar arrancadas velozes que ajudam a escapar, perseguir
+           inimigos ou desviar de ataques. Stu é considerado um personagem ágil,
+            divertido e muito forte nas mãos de jogadores experientes. Título: Piloto de Fuga
+
+      </p>
+
+    </div>
+     <div class="card">
+
+      <h2>Piper</h2>
+
+      <p>
+       Piper é uma brawler da classe Atiradora e de raridade Épica no Brawl Stars.
+        Ela é conhecida pelos seus tiros de longa distância, que causam mais dano
+         quanto mais longe o inimigo estiver. Muitos jogadores gostam da Piper
+          pelo seu estilo elegante e pelas eliminações precisas que consegue fazer.
+           Seu Super permite saltar para longe enquanto lança granadas no chão,
+            ajudando tanto no ataque quanto na fuga. Piper é considerada uma personagem
+             habilidosa, estratégica e muito perigosa à distância. Título: Mira Infalível
+
+
+      </p>
+
+    </div>
+     <div class="card">
+
+      <h2>Pam</h2>
+
+      <p>
+      Pam é uma brawler da classe Suporte e de raridade Épica no Brawl Stars.
+       Ela é conhecida pelos seus ataques com sucata metálica e pela grande
+        quantidade de vida nas batalhas. Muitos jogadores gostam da Pam pela
+         sua resistência e pela capacidade de ajudar aliados durante as partidas.
+          Seu Super coloca uma torre de cura que recupera a vida dos companheiros 
+          próximos constantemente. Pam é considerada uma personagem forte, estratégica
+           e muito útil em equipe. Título: Sua Mãe
+
+
+      </p>
+
+    </div>
+     <div class="card">
+
+      <h2>Frank</h2>
+
+      <p>
+      Frank é um brawler da classe Tanque e de raridade Épica no Brawl Stars.
+       Ele é conhecido pelo seu enorme martelo e pela grande quantidade de 
+       vida que possui nas batalhas. Muitos jogadores gostam do Frank pelo 
+       seu estilo agressivo e pela capacidade de controlar grupos de inimigos.
+        Seu Super causa uma onda de choque que atordoa adversários próximos,
+         podendo mudar completamente o rumo da partida. Frank é considerado
+          um personagem poderoso, resistente e muito assustador quando
+           usado da forma certa. Título: Tanque!
+
+
+
+
+      </p>
+
+    </div>
+     <div class="card">
+
+      <h2>Bibi</h2>
+
+      <p>
+      Bibi é uma brawler da classe Tanque e de raridade Épica no Brawl Stars.
+       Ela é conhecida pelo seu taco de beisebol e pelos ataques rápidos de
+        curta distância. Muitos jogadores gostam da Bibi pela sua velocidade
+         e pela facilidade de pressionar inimigos durante as partidas. Quando
+          sua barra especial está carregada, seu ataque empurra adversários
+           para longe com muita força. Bibi é considerada uma personagem estilosa,
+            agressiva e muito divertida de jogar. Título: Suave
+
+
+
+      </p>
+
+    </div>
+     <div class="card">
+
+      <h2>Bea</h2>
+
+      <p>
+      Bea é uma brawler da classe Atiradora e de raridade Épica no Brawl Stars.
+       Ela é conhecida pelos seus tiros precisos e pelo grande dano que consegue
+        causar com ataques carregados. Muitos jogadores gostam da Bea pelo seu
+         estilo estratégico e pela capacidade de eliminar inimigos rapidamente
+          à distância. Seu Super lança drones que desaceleram adversários,
+           facilitando ataques e perseguições. Bea é considerada uma personagem
+            habilidosa, irritante para os inimigos e muito forte em mapas abertos. Título: Rainha
+
+
+
+      </p>
+
+    </div>
+     <div class="card">
+
+      <h2>Nani</h2>
+
+      <p>
+       Nani é uma brawler da classe Atiradora e de raridade Épica no Brawl Stars.
+        Ela é conhecida pelos seus ataques que disparam vários projéteis ao mesmo 
+        tempo, causando muito dano quando acertam juntos. Muitos jogadores gostam
+         da Nani pelo seu estilo difícil e pelas jogadas precisas que consegue fazer.
+          Seu Super controla Peep, um pequeno robô explosivo que pode perseguir inim
+          igos pelo mapa inteiro. Nani é considerada uma personagem habilidosa,
+           estratégica e extremamente perigosa nas mãos certas. Título: Babá
+
+
+      </p>
+
+    </div>
+     <div class="card">
+
+      <h2>Edgar</h2>
+
+      <p>
+      Edgar é um brawler da classe Assassino e de raridade Épica no Brawl Stars.
+       Ele é conhecido pelos ataques rápidos de curta distância e pela facilidade
+        de avançar nos inimigos usando seu Super. Muitos jogadores consideram o 
+        Edgar muito fácil de jogar, além de extremamente irritante e odiado pela
+         comunidade por atacar de surpresa o tempo todo. Mesmo assim, vários jogadores
+          usam ele justamente por ser forte e simples de dominar em muitas partidas. 
+          Edgar é visto como um personagem rápido, insuportável para enfrentar e 
+          muito popular entre iniciantes. Título: Dono do Braws Stars
+
+      </p>
+
+    </div>
+     <div class="card">
+
+      <h2>Griff</h2>
+
+      <p>
+Griff é um brawler da classe Destruidor e de raridade Épica no Brawl Stars. 
+Ele é conhecido por atacar lançando várias moedas ao mesmo tempo, causando
+ muito dano de perto e à média distância. Muitos jogadores gostam do Griff
+  pelo seu estilo agressivo e pela facilidade de pressionar inimigos durante
+   as partidas. Seu Super dispara uma chuva de notas e moedas que volta para
+    ele, podendo causar dano duas vezes. Griff é considerado um personagem forte,
+     ganancioso e muito perigoso quando usado corretamente. Título: Mão de Vaca
+
+
+      </p>
+
+    </div>
+     <div class="card">
+
+      <h2>Grom</h2>
+
+      <p>
+      Grom é um brawler da classe Arremessador e de raridade Épica no Brawl Stars.
+       Ele é conhecido por lançar explosivos de longo alcance que causam grande 
+       dano em área nos inimigos. Muitos jogadores gostam do Grom pela sua capaci
+       dade de controlar partes do mapa e atacar adversários atrás de paredes.
+        Seu Super lança uma enorme bomba que explode em várias direções, causa
+        ndo muita destruição. Grom é considerado um personagem estratégico,
+         irritante de enfrentar e muito forte em mapas fechados. Título: Com uma Mão Só
+
+
+
+      </p>
+
+    </div>
+     <div class="card">
+
+      <h2>Bonnie</h2>
+
+      <p>
+       Bonnie é uma brawler da classe Atiradora e de raridade Épica no Brawl Stars.
+        Ela é conhecida por alternar entre ataques de longa distância dentro de seu 
+        canhão e combates agressivos de perto após usar seu Super. Muitos jogadores
+         gostam da Bonnie pela sua versatilidade e pelas jogadas inesperadas que 
+         consegue fazer durante as partidas. Seu Super a lança pelo mapa, permitindo
+          avançar rapidamente nos inimigos e mudar totalmente o estilo de combate.
+           Bonnie é considerada uma personagem divertida, caótica e muito forte em diferentes situações. Título: Sem Noção
+
+
+      </p>
+
+    </div>
+     <div class="card">
+
+      <h2>Gale</h2>
+
+      <p>
+      Gale é um brawler da classe Controlador e de raridade Épica no Brawl Stars.
+       Ele é conhecido por disparar rajadas de neve que empurram e atrapalham os
+        inimigos durante as partidas. Muitos jogadores gostam do Gale pela sua 
+        capacidade de controlar movimentações e proteger áreas importantes do mapa.
+         Seu Super cria uma forte ventania que empurra adversários para longe,
+          podendo cancelar ataques e salvar aliados. Gale é considerado um personagem 
+          estratégico, irritante de enfrentar e muito útil em equipe. Título: Chama o Síndico
+
+
+      </p>
+
+    </div>
+     <div class="card">
+
+      <h2>Collete</h2>
+
+      <p>
+      Colette é uma brawler da classe Destruidora e de raridade Épica no Brawl Stars.
+       Ela é conhecida por causar dano baseado na vida dos inimigos, sendo muito eficiente
+        contra personagens com muita resistência. Muitos jogadores gostam da Colette pelo
+         seu estilo diferente e pela facilidade de enfraquecer adversários rapidamente.
+          Seu Super faz ela avançar em alta velocidade para frente e voltar logo depois,
+           causando dano em todos os inimigos no caminho. Colette é considerada uma personagem
+            estratégica, divertida e muito forte contra tanques. Título: Me dá um Autográfo!
+
+      </p>
+
+    </div>
+     <div class="card">
+
+      <h2>Belle</h2>
+
+      <p>
+       Belle é uma brawler da classe Atiradora e de raridade Épica no Brawl Stars.
+        Ela é conhecida pelos seus tiros elétricos que ricocheteiam entre inimigos
+         próximos, causando pressão constante nas batalhas. Muitos jogadores gostam
+          da Belle pelo seu estilo estratégico e pela facilidade de controlar
+           adversários à distância. Seu Super marca um inimigo, fazendo com que
+            ele receba mais dano de todos os ataques por um tempo. Belle é considerada
+             uma personagem inteligente, perigosa e muito forte em combates de longa distância. Título: Caça-Ouro
+
+      </p>
+
+    </div>
+     <div class="card">
+
+      <h2>Ash</h2>
+
+      <p>
+       Ash é um brawler da classe Tanque e de raridade Épica no Brawl Stars.
+        Ele é conhecido pelo seu temperamento explosivo e pelos ataques com 
+        sua enorme vassoura de lixo. Muitos jogadores gostam do Ash pela sua
+         resistência e pela capacidade de ficar mais forte conforme recebe
+          dano e enche sua barra de raiva. Seu Super invoca vários ratos 
+          robóticos que perseguem inimigos e ajudam a causar pressão nas batalhas.
+           Ash é considerado um personagem agressivo, caótico e muito perigoso quando está com raiva máxima.
+           Título: Lixo
+
+      </p>
+
+    </div>
+     <div class="card">
+
+      <h2>Lola</h2>
+
+      <p>
+       Lola é uma brawler da classe Destruidora e de raridade Épica no Brawl Stars.
+        Ela é conhecida pelo seu estilo “diva” e por atacar com rajadas de energia 
+        de média distância. Muitos jogadores gostam da Lola pela sua força ofensiva
+         e pela capacidade de controlar o mapa com facilidade. Seu Super cria um 
+         clone dela mesma que também atira, aumentando muito o dano total e confun
+         dindo os inimigos. Lola é considerada uma personagem estilosa, poderosa
+          e muito forte em combates controlados. Título: Fazendo Cena
+
+
+      </p>
+
+    </div>
+     <div class="card">
+
+      <h2>Sam</h2>
+
+      <p>
+      Sam é um brawler da classe Tanque e de raridade Épica no Brawl Stars.
+       Ele é conhecido pelos seus ataques rápidos com socos metálicos e pela
+        capacidade de lutar tanto de perto quanto com seus punhos lançáveis.
+         Muitos jogadores gostam do Sam pelo estilo agressivo e pela mobilidade
+          que ele ganha ao recuperar suas luvas durante a partida. Seu Super
+           permite lançar suas luvas no chão e depois puxá-las de volta, 
+           causando dano e recuperando força no processo. Sam é considerado 
+           um personagem forte, dinâmico e muito perigoso em combates próximos. Título: Punhos de Aço
+
+
+      </p>
+
+    </div>
+     <div class="card">
+
+      <h2>Mandy</h2>
+
+      <p>
+      Mandy é uma brawler da classe Atiradora e de raridade Épica no Brawl Stars.
+       Ela é conhecida por seus tiros extremamente longos e precisos, que podem
+        causar muito dano quando acertam à distância. Muitos jogadores gostam 
+        da Mandy pelo seu estilo de controle de mapa e pela capacidade de punir
+         inimigos de longe. Seu Super dispara um feixe poderoso em linha reta,
+          atravessando o mapa e atingindo vários inimigos ao mesmo tempo.
+           Mandy é considerada uma personagem forte, estratégica e muito perigosa
+            em mapas abertos. Título: Rapadura
+
+
+      </p>
+
+    </div>
+     <div class="card">
+
+      <h2>Maisie</h2>
+
+      <p>
+       Maisie é uma brawler da classe Destruidora e de raridade Épica no Brawl Stars.
+        Ela é conhecida por seus ataques de longo alcance que causam mais dano quanto
+         mais tempo o projétil viaja. Muitos jogadores gostam da Maisie pelo seu estilo
+          estratégico e pela capacidade de controlar o ritmo das partidas. Seu Super
+           cria uma grande onda de choque que puxa e desacelera os inimigos, facili
+           tando eliminações. Maisie é considerada uma personagem forte, controladora
+            e muito eficiente em combates à distância. Título: Mestre do Desastre
+
+
+      </p>
+
+    </div>
+     <div class="card">
+
+      <h2>Hank</h2>
+
+      <p>
+       Hank é um brawler da classe Tanque e de raridade Épica no Brawl Stars.
+        Ele é conhecido por inflar um balão de água que cresce conforme ele 
+        carrega o ataque, causando grande dano em área quando solto. Muitos
+         jogadores gostam do Hank pelo seu estilo diferente e pela capacidade
+          de pressionar inimigos mesmo sem chegar tão perto. Seu Super dispara
+           torpedos de água que causam dano e ajudam a controlar o mapa. 
+           Hank é considerado um personagem resistente, único e muito forte
+            quando bem utilizado. Título: Taca Camarão
+
+
+
+      </p>
+
+    </div>
+     <div class="card">
+
+      <h2>Pearl</h2>
+
+      <p>
+      Pearl é uma brawler da classe Destruidora e de raridade Épica no Brawl Stars.
+       Ela é conhecida por ser uma máquina de biscoitos que ataca soltando calor
+        acumulado em forma de disparos fortes e constantes. Muitos jogadores gostam
+         da Pearl pelo seu estilo diferente e pela capacidade de causar muito dano
+          quando sua barra de calor está cheia. Seu Super libera uma explosão de calor
+           em área, atingindo vários inimigos ao mesmo tempo. Pearl é considerada uma
+            personagem forte, consistente e muito perigosa em combates prolongados. Título: Mão na Massa!
+
+      </p>
+
+    </div>
+     <div class="card">
+
+      <h2>Larry e Lawrie</h2>
+
+      <p>
+      
+      Larry e Lawrie é um brawler da classe Controlador e de raridade Épica no Brawl Stars.
+       Eles são conhecidos por atacar à distância com projéteis que causam bom dano e por 
+       terem um estilo de jogo em dupla muito único. Muitos jogadores gostam do Larry e Lawrie
+        pela capacidade de controlar o mapa e pressionar inimigos sem precisar se expor muito.
+         Seu Super invoca Lawrie, um robô que ajuda nas batalhas atacando os inimigos e aumentando
+          a pressão no combate. Larry e Lawrie são considerados um personagem estratégico, forte
+           em controle de área e muito interessante de jogar em equipe. Título: Eu Sou a Lei!
+
+
+      </p>
+
+    </div>
+     <div class="card">
+
+      <h2>Angelo</h2>
+
+      <p>
+      Angelo é um brawler da classe Atirador e de raridade Épica no Brawl Stars.
+       Ele é conhecido por seus ataques de longo alcance que podem atravessar
+        obstáculos e causar dano consistente aos inimigos. Muitos jogadores gostam
+         do Angelo pelo seu estilo preciso e pela capacidade de controlar o mapa
+          com facilidade. Seu Super cria uma área que desacelera inimigos e aumenta
+           o controle de território durante as batalhas. Angelo é considerado um 
+           personagem estratégico, forte à distância e muito útil em modos de controle 
+           de área. Título: Sanguessuga
+
+
+      </p>
+
+    </div>
+     <div class="card">
+
+      <h2>Berry</h2>
+
+      <p>
+      Berry é um brawler da classe Suporte e de raridade Épica no Brawl Stars.
+       Ele é conhecido por seus ataques de área que causam dano contínuo e ajudam
+        a controlar o mapa. Muitos jogadores gostam do Berry pelo seu estilo simples
+         e pela utilidade em equipe, já que consegue pressionar inimigos com facilidade.
+          Seu Super cria uma zona que cura aliados e causa dano aos adversários ao mesmo
+           tempo. Berry é considerado um personagem estratégico, útil e muito forte em combates em grupo.
+           Título: Unicórnio
+
+      </p>
+
+    </div>
+     <div class="card">
+
+      <h2>Shade</h2>
+
+      <p>
+       Shade é um brawler da classe Assassino e de raridade Épica no Brawl Stars. 
+       Ele é conhecido por sua mobilidade e por conseguir atravessar paredes e
+        surpreender inimigos de forma inesperada. Muitos jogadores gostam do Shade
+         pelo seu estilo furtivo e pela facilidade de eliminar alvos isolados rapidamente.
+          Seu Super permite avançar de forma sombria, atravessando obstáculos e causando
+           dano nos inimigos pelo caminho. Shade é considerado um personagem agressivo,
+            imprevisível e muito irritante de enfrentar. Título: Espectral
+
+
+      </p>
+
+    </div>
+     <div class="card">
+
+      <h2>Meeple</h2>
+
+      <p>
+      Meeple é um brawler da classe Controlador e de raridade Épica no Brawl Stars.
+       Ele é conhecido por seus ataques consistentes que ajudam a manter o controle
+        do mapa e pressionar os inimigos de forma constante. Muitos jogadores gostam
+         do Meeple pelo seu estilo estratégico e pela facilidade de ajudar a equipe
+          em diferentes situações. Seu Super cria uma área de controle que limita a
+           movimentação dos adversários e favorece o domínio do território. Meeple é
+            considerado um personagem útil, versátil e muito forte em modos de objetivo. Título: Trapaceiro
+
+      </p>
+
+    </div>
+     <div class="card">
+
+      <h2>Trunk</h2>
+
+      <p>
+       Trunk é um brawler da classe Tanque e de raridade Épica no Brawl Stars.
+        Ele é conhecido por sua grande resistência e por atacar de forma agressiva
+         em curta distância. Muitos jogadores gostam do Trunk pelo estilo simples
+         e pela facilidade de pressionar inimigos em lutas corpo a corpo. Seu
+          Super cria uma investida poderosa que causa dano em área e ajuda a iniciar
+           combates rapidamente. Trunk é considerado um personagem forte, direto e muito
+            eficiente para avançar contra os adversários. Título: Domínio das Formigas
+
+      </p>
+
+    </div>
+    <div class="card">
+
+      <h2>Bolt</h2>
+
+      <p>
+Bolt é um Brawler Épico de classe Tanque em Brawl Stars. Ele é um brinquedo da linha 
+Battle Bumperz que rola para atacar. Sua mecânica única faz com que ele ganhe veloci
+dade e cause mais dano à medida que se move pelo mapa. Título: Craque
+      </p>
+
+    </div>
+     
+      <div class="card">
+
+      <h2>Mortis</h2>
+
+      <p>
+      Mortis é um brawler da classe Assassino e de raridade Mítica no Brawl Stars.
+       Ele é conhecido pela sua alta mobilidade e pelos avanços rápidos com sua pá,
+        permitindo atacar e escapar facilmente. Muitos jogadores gostam do Mortis
+         pelo seu estilo habilidoso e pelas jogadas impressionantes que consegue
+          fazer nas partidas. Seu Super libera uma nuvem de morcegos que causa dano
+           aos inimigos e recupera sua vida ao mesmo tempo. Mortis é considerado um
+            personagem estiloso, difícil de dominar e muito perigoso nas mãos certas.
+            Título: Criatura Noturna
+
+
+      </p>
+
+    </div>
+     
+     <div class="card">
+
+      <h2>Max</h2>
+
+      <p>
+      Max é uma brawler da classe Suporte e de raridade Mítica no Brawl Stars.
+       Ela é conhecida pela sua velocidade extremamente alta e pelos ataques
+        rápidos de longa distância. Muitos jogadores gostam da Max pela mobi
+        lidade e pela capacidade de ajudar aliados a se movimentarem mais 
+        rápido durante as partidas. Seu Super aumenta bastante a velocidade
+         dela e dos companheiros próximos, permitindo ataques e fugas rápidas.
+          Max é considerada uma personagem ágil, divertida e muito útil em equipe. Título: Energia Total!
+
+      </p>
+
+    </div>
+     
+     <div class="card">
+
+      <h2>Mister P</h2>
+
+      <p>
+       Mr. P é um brawler da classe Controlador e de raridade Mítica no Brawl Stars.
+        Ele é conhecido por lançar malas que ricocheteiam após atingir o chão, permi
+        tindo atacar inimigos atrás de obstáculos. Muitos jogadores gostam do Mr. P
+         pelo seu estilo estratégico e pela capacidade de incomodar adversários cons
+         tantemente. Seu Super cria uma base que gera pequenos robôs carregadores p
+         ara perseguir inimigos durante a partida. Mr. P é considerado um personagem
+          irritante, inteligente e muito forte em controle de mapa.  Título: Chefia
+
+      </p>
+
+    </div>
+     
+     <div class="card">
+
+      <h2>Byron</h2>
+
+      <p>
+        Byron é um brawler da classe Suporte e de raridade Mítica no Brawl Stars.
+         Ele é conhecido por seus ataques que causam dano contínuo nos inimigos 
+         e também podem curar aliados à distância. Muitos jogadores gostam do By
+         ron pelo seu estilo estratégico e pela grande utilidade em equipe. Seu 
+         Super lança uma poção que causa dano nos adversários e recupera a vida
+          dos companheiros ao mesmo tempo. Byron é considerado um personagem in
+          teligente, versátil e muito forte quando bem utilizado. Título: Sensasional
+
+
+      </p>
+
+    </div>
+     
+     <div class="card">
+
+      <h2>Squeak</h2>
+
+      <p>
+       Squeak é um brawler da classe Controlador e de raridade Mítica no Brawl Stars.
+        Ele é conhecido por lançar bombas pegajosas que grudam nos inimigos e explod
+        em após alguns segundos. Muitos jogadores gostam do Squeak pela sua capacida
+        de de controlar áreas do mapa e atrapalhar a movimentação dos adversários. S
+        eu Super lança várias bombas explosivas em diferentes direções, causando gra
+        nde pressão nas batalhas. Squeak é considerado um personagem irritante, estr
+        atégico e muito forte em controle de área. Título: Gosmento
+
+      </p>
+
+    </div>
+     
+     <div class="card">
+
+      <h2>Ruffs</h2>
+
+      <p>
+       Ruffs é um brawler da classe Suporte e de raridade Mítica no Brawl Stars.
+        Ele é conhecido por seus tiros que ricocheteiam nas paredes e pela capa
+        cidade de fortalecer aliados durante as partidas. Muitos jogadores gostam
+         do Ruffs pelo seu estilo estratégico e pela utilidade que oferece para
+          a equipe. Seu Super lança uma caixa de suprimentos que aumenta a vid
+          a e o dano de quem a coleta. Ruffs é considerado um personagem intel
+          igente, útil e muito forte em modos de equipe. Título: Coronel
+
+      </p>
+
+    </div>
+     
+     <div class="card">
+
+      <h2>Buzz</h2>
+
+      <p>
+      Buzz é um brawler da classe Assassino e de raridade Mítica no Brawl Stars.
+       Ele é conhecido pela sua alta mobilidade e pela facilidade de surpreende
+       r inimigos com ataques rápidos de curta distância. Muitos jogadores gostam 
+       do Buzz pelo seu estilo agressivo e pelas eliminações rápidas que consegue
+        fazer. Seu Super lança uma boia que puxa ele até o alvo, atordoando
+         inimigos ao chegar perto. Buzz é considerado um personagem divertido,
+          perigoso e muito forte nas mãos de jogadores agressivos. Título: Só na malandragem
+
+      </p>
+
+    </div>
+     
+     <div class="card">
+
+      <h2>Fang</h2>
+
+      <p>
+       Fang é um brawler da classe Assassino e de raridade Mítica no Brawl Stars.
+        Ele é conhecido pelos seus chutes poderosos e pela capacidade de avançar
+         rapidamente entre os inimigos. Muitos jogadores gostam do Fang pelo se
+         u estilo agressivo e pelas jogadas impressionantes que consegue fazer
+          em sequência. Seu Super permite dar um chute veloz que pode atingir 
+          vários adversários e continuar avançando entre eles. Fang é conside
+          rado um personagem estiloso, habilidoso e extremamente perigoso qua
+          ndo bem utilizado. Título: Só na voadora!
+
+      </p>
+
+    </div>
+     
+     <div class="card">
+
+      <h2>Janet</h2>
+
+      <p>
+      Janet é uma brawler da classe Atiradora e de raridade Mítica no Brawl Stars.
+       Ela é conhecida pelos seus ataques de longo alcance e pela capacidade de se 
+       movimentar pelo ar durante as batalhas. Muitos jogadores gostam da Janet pelo
+        seu estilo versátil e pela facilidade de pressionar inimigos à distância.
+        Seu Super faz ela voar pelo mapa enquanto lança bombas do alto, causando
+         dano em área nos adversários. Janet é considerada uma personagem estratégica,
+          divertida e muito forte em mapas abertos. Título: Voando Alto
+
+      </p>
+
+    </div>
+     
+     <div class="card">
+
+      <h2>Gray</h2>
+
+      <p>
+       Gray é um brawler da classe Suporte e de raridade Mítica no Brawl Stars.
+        Ele é conhecido pelos seus ataques precisos e pela capacidade de criar 
+        portais para se teleportar pelo mapa. Muitos jogadores gostam do Gray
+         pelo seu estilo estratégico e pelas jogadas criativas que consegue 
+         fazer em equipe. Seu Super cria dois portais conectados, permitindo
+          movimentações rápidas para aliados e ataques surpresa contra os inimigos.
+           Gray é considerado um personagem inteligente, versátil e muito divertido
+            de jogar. Título: Preto e Branco
+
+      </p>
+
+    </div>
+     
+     <div class="card">
+
+      <h2>R-T</h2>
+
+      <p>
+      R-T é um brawler da classe Destruidor e de raridade Mítica no Brawl Stars.
+       Ele é conhecido pelos seus ataques de longa distância e pela capacidade
+        de marcar inimigos para causar mais dano. Muitos jogadores gostam do R-T 
+        pelo seu estilo estratégico e pela versatilidade entre combate à distância
+         e curta distância. Seu Super divide seu corpo em duas partes, permitindo
+          atacar inimigos próximos de forma mais agressiva. R-T é considerado um
+           personagem forte, inteligente e muito perigoso em diferentes situações. Título: Vigilante
+
+      </p>
+
+    </div>
+     
+     <div class="card">
+
+      <h2>Willow</h2>
+
+      <p>
+       Willow é uma brawler da classe Controladora e de raridade Mítica no Brawl Stars.
+        Ela é conhecida por seus ataques venenosos e pela capacidade de atrapalhar 
+        completamente os inimigos durante as partidas. Muitos jogadores gostam da
+         Willow pelo seu estilo diferente e pelas jogadas caóticas que consegue fazer.
+          Seu Super permite controlar temporariamente um inimigo, fazendo ele atacar
+           o próprio time. Willow é considerada uma personagem estratégica, irritante 
+           e muito divertida de usar. Título: Na sua mente
+
+      </p>
+
+    </div>
+     
+     <div class="card">
+
+      <h2>Doug</h2>
+
+      <p>
+       Doug é um brawler da classe Suporte e de raridade Mítica no Brawl Stars.
+        Ele é conhecido pelos seus ataques em área de curta distância e pela
+         capacidade de ajudar aliados durante as batalhas. Muitos jogadores
+          gostam do Doug pelo seu estilo divertido e pela utilidade em equipe. 
+          Seu Super dá a um aliado a chance de voltar à vida após ser derrotado,
+           podendo mudar completamente o rumo da partida. Doug é considerado um
+            personagem carismático, útil e muito forte em modos de equipe. Título: Salsichão
+
+      </p>
+
+    </div>
+     
+     <div class="card">
+
+      <h2>Melodie</h2>
+
+      <p>
+       Melodie é uma brawler da classe Assassina e de raridade Mítica no Brawl Stars.
+        Ela é conhecida pela sua alta mobilidade e pelos ataques musicais que giram
+         ao seu redor causando dano nos inimigos. Muitos jogadores gostam da Melodie
+          pelo seu estilo rápido e pelas jogadas agressivas que consegue fazer durante
+           as partidas. Seu Super permite avançar várias vezes em sequência, facilitando 
+           perseguições e eliminações rápidas. Melodie é considerada uma personagem esti
+           losa, habilidosa e muito perigosa nas mãos certas. Título: Indomável
+
+      </p>
+
+    </div>
+      <div class="card">
+
+      <h2>Ollie</h2>
+
+      <p>
+Ollie é um brawler da classe Tanque e de raridade Mítica no Brawl Stars. 
+Ele é conhecido pela sua grande resistência e pelos ataques fortes de curta
+ distância que pressionam os inimigos facilmente. Muitos jogadores gostam
+  do Ollie pelo seu estilo agressivo e pela capacidade de iniciar combate
+  s rapidamente. Seu Super permite avançar contra adversários causando dano
+   em área e criando oportunidades para a equipe. Ollie é considerado um
+    personagem resistente, perigoso e muito eficiente em lutas próximas. Título: Irado
+
+      </p>
+
+    </div>
+      <div class="card">
+
+      <h2>Lumi</h2>
+
+      <p>
+       Lumi é uma brawler da classe Controladora e de raridade Mítica no Brawl Stars. 
+       Ela é conhecida pelos seus ataques brilhantes que conseguem pressionar inimigos 
+       e controlar áreas do mapa com facilidade. Muitos jogadores gostam da Lumi pelo 
+       seu estilo elegante e pela utilidade que oferece em equipe durante as partidas.
+        Seu Super cria uma grande área luminosa que atrapalha os adversários e favo
+        rece o controle do território. Lumi é considerada uma personagem estratégica,
+         versátil e muito forte em modos de objetivo. Título: Metaleira
+
+      </p>
+
+    </div>
+      <div class="card">
+
+      <h2>Finx</h2>
+
+      <p>
+       O Finx é um Brawler Mítico da classe de Controle em Brawl Stars.
+        Ele é conhecido por manipular o espaço-tempo, desacelerar os ataques
+         inimigos e lançar disparos triplos. Ele é excelente em partidas 3v3
+          (como Pique Gema e Zona Estratégica), destacando-se por controlar
+           o campo de batalha e atrapalhar o avanço inimigo. Título: Perda de Tempo
+
+      </p>
+
+    </div>
+      <div class="card">
+
+      <h2>Najia</h2>
+
+      <p>
+      A Najia (também conhecida em algumas regiões como Naddia)
+       é uma Brawler Mítica da classe Destruidor em Brawl Stars.
+       Seu estilo de jogo é focado em controle de área e dano
+        progressivo por envenenamento.  Título: Peçonha
+
+      </p>
+
+    </div>
+      <div class="card">
+
+      <h2>Damian</h2>
+
+      <p>
+      Damian é um Brawler Mítico do tipo Tanque, membro do trio "Mansão
+       Medieval" e irmão do Draco. Ele se destaca por seu curto alcance, 
+       alta vida, velocidade rápida e mecânica única de dano variável.
+        Sua principal característica é um medidor de raiva que, ao atin
+        gir o limite ou ser ativado, transforma seu estilo de jogo. Título: Em ritmo de destruição 
+      </p>
+
+    </div>
+      <div class="card">
+
+      <h2>Tara</h2>
+
+      <p>
+       Tara é uma brawler da classe Destruidora e de raridade Mítica no Brawl Stars.
+        Ela é conhecida pelos seus ataques com cartas que conseguem atingir vários
+         inimigos ao mesmo tempo. Muitos jogadores gostam da Tara pelo seu estilo
+          misterioso e pela capacidade de virar partidas com seu Super. Seu Super 
+          cria um buraco negro que puxa inimigos para o centro, facilitando ataques
+           em equipe e grandes jogadas. Tara é considerada uma personagem estratégica,
+            perigosa e muito forte em combates em grupo. Título: Maestria
+
+      </p>
+
+    </div>
+      <div class="card">
+
+      <h2>Eugênio</h2>
+
+      <p>
+      Eugênio é um brawler da classe Controlador e de raridade Mítica no Brawl Stars.
+       Ele é conhecido pelos seus ataques mágicos de longo alcance e pela capacidade
+        de puxar inimigos para perto com seu Super. Muitos jogadores gostam do Eugênio
+         pelo seu estilo estratégico e pelas jogadas inesperadas que consegue fazer durante
+          as partidas. Seu Super lança uma mão mágica que puxa adversários, criando ótimas
+           oportunidades para eliminações. Eugênio é considerado um personagem inteligente,
+            divertido e muito forte em equipe. Título: Fala com minha mão
+
+      </p>
+
+    </div>
+      <div class="card">
+
+      <h2>Sprout</h2>
+
+      <p>
+       Sprout é um brawler da classe Arremessador e de raridade Mítica no Brawl Stars.
+        Ele é conhecido por lançar sementes explosivas que ricocheteiam nas paredes
+         e ajudam a controlar áreas do mapa. Muitos jogadores gostam do Sprout pelo 
+         seu estilo estratégico e pela capacidade de atrapalhar a movimentação dos 
+         inimigos. Seu Super cria uma grande parede de plantas que bloqueia caminhos
+          e muda completamente o combate. Sprout é considerado um personagem inteligente,
+           irritante de enfrentar e muito forte em controle de área. Título: Abraçador de árvores
+
+      </p>
+
+    </div>
+      <div class="card">
+
+      <h2>Lou</h2>
+
+      <p>
+       
+       Lou é um brawler da classe Controlador e de raridade Mítica no Brawl Stars.
+        Ele é conhecido pelos seus ataques congelantes que podem paralisar inimigos
+         após vários acertos consecutivos. Muitos jogadores gostam do Lou pelo seu 
+         estilo estratégico e pela capacidade de dificultar a movimentação dos adver
+         sários. Seu Super cria uma área escorregadia que desacelera e atrapalha os 
+         inimigos durante as batalhas. Lou é considerado um personagem irritante, 
+         inteligente e muito útil em modos de controle. Título: Está aqui pra você
+
+
+      </p>
+
+    </div>
+      <div class="card">
+
+      <h2>Eve</h2>
+
+      <p>
+      Eve é uma brawler da classe Controladora e de raridade Mítica no Brawl Stars.
+       Ela é conhecida pelos seus ataques que lançam ovos alienígenas e pela capaci
+       dade de atravessar água sem dificuldades. Muitos jogadores gostam da Eve pe
+       lo seu estilo diferente e pela pressão constante que consegue fazer nos inimigos. 
+       Seu Super invoca um filhote alienígena que persegue adversários e cria ainda 
+       mais confusão nas batalhas. Eve é considerada uma personagem estratégica,
+        irritante de enfrentar e muito forte em controle de mapa. Título: Mãe Natureza
+
+      </p>
+
+    </div>
+      <div class="card">
+
+      <h2>Otis</h2>
+
+      <p>
+      Otis é um brawler da classe Controlador e de raridade Mítica no Brawl Stars.
+       Ele é conhecido pelos seus ataques de tinta que causam dano constante e pela
+        capacidade de atrapalhar completamente os inimigos. Muitos jogadores gostam
+         do Otis pelo seu estilo estratégico e pela facilidade de controlar combates
+          importantes. Seu Super lança sua estrela do mar Cil, que impede os adversários
+           de atacarem por alguns segundos. Otis é considerado um personagem irritante,
+            inteligente e muito forte em modos de equipe. Título: O artista
+
+      </p>
+
+    </div>
+      <div class="card">
+
+      <h2>Buster</h2>
+
+      <p>
+       Buster é um brawler da classe Tanque e de raridade Mítica no Brawl Stars.
+        Ele é conhecido pelos seus ataques de curta distância e pela capacidade
+         de proteger aliados durante as batalhas. Muitos jogadores gostam do Buster
+          pelo seu estilo agressivo e pela utilidade em equipe. Seu Super cria uma
+           barreira que reflete projéteis inimigos, ajudando a defender o time e
+            pressionar adversários ao mesmo tempo. Buster é considerado um personagem
+             resistente, estratégico e muito forte em modos de equipe. Título: Estrela do meu própio filme (blockbuster)
+
+      </p>
+
+    </div>
+      <div class="card">
+
+      <h2>Chuck</h2>
+
+      <p>
+       Chuck é um brawler da classe Controlador e de raridade Mítica no Brawl Stars.
+        Ele é conhecido pela sua alta mobilidade e pela capacidade de atravessar o mapa
+         rapidamente usando seus postes de trem. Muitos jogadores gostam do Chuck pelo 
+         seu estilo caótico e pela pressão constante que consegue fazer nos inimigos
+          durante as partidas. Seu Super permite avançar em alta velocidade pelos trilhos, 
+          causando dano e controlando áreas importantes do mapa. Chuck é considerado um
+           personagem estratégico, imprevisível e muito forte em modos de objetivo. Título: O maestro
+
+      </p>
+
+    </div>
+      <div class="card">
+
+      <h2>Charlie</h2>
+
+      <p>
+       Charlie é uma brawler da classe Controladora e de raridade Mítica no Brawl Stars. 
+       Ela é conhecida pelos seus ataques com fios e pela capacidade de atrapalhar comple
+       tamente os inimigos durante as partidas. Muitos jogadores gostam da Charlie pelo 
+       seu estilo estratégico e pelas jogadas irritantes que consegue fazer. Seu Super 
+       prende um inimigo em um casulo por alguns segundos, impedindo qualquer ação e
+        criando ótimas oportunidades para a equipe. Charlie é considerada uma personagem
+         inteligente, irritante de enfrentar e muito forte em controle de mapa. Título: A incrivel
+
+      </p>
+
+    </div>
+      <div class="card">
+
+      <h2>Mico</h2>
+
+      <p>
+       Mico é um brawler da classe Assassino e de raridade Mítica no Brawl Stars.
+        Ele é conhecido pelos seus ataques saltando sobre os inimigos e pela alta
+         mobilidade durante as partidas. Muitos jogadores gostam do Mico pelo seu 
+         estilo caótico e pelas jogadas rápidas que consegue fazer para surpreender
+          adversários. Seu Super faz ele subir no ar e cair causando dano em área,
+           ajudando tanto no ataque quanto na fuga. Mico é considerado um personagem
+            divertido, irritante de enfrentar e muito forte nas mãos de jogadores agressivos. Título: Está me zoando?
+
+      </p>
+
+    </div>
+      <div class="card">
+
+      <h2>Lily</h2>
+
+      <p>
+       Lily é uma brawler da classe Assassina e de raridade Mítica no Brawl Stars.
+        Ela é conhecida pela sua velocidade e pela capacidade de atacar inimigos 
+        rapidamente antes de desaparecer do combate. Muitos jogadores gostam da 
+        Lily pelo seu estilo furtivo e pelas eliminações rápidas que consegue fazer.
+         Seu Super permite avançar instantaneamente até um alvo, facilitando ataques
+          surpresa e fugas rápidas. Lily é considerada uma personagem ágil, perigosa
+           e muito forte nas mãos de jogadores habilidosos. Título: Pelas costas
+
+      </p>
+
+    </div>
+     <div class="card">
+
+      <h2>Clancy</h2>
+
+      <p>
+      Clancy é um brawler da classe Destruidor e de raridade Mítica no Brawl Stars.
+      Ele é conhecido pelos seus ataques rápidos e pela capacidade de aumentar sua
+       pressão ofensiva durante as partidas. Muitos jogadores gostam do Clancy pelo
+        seu estilo agressivo e pela facilidade de causar dano constante nos inimigos.
+         Seu Super libera uma sequência poderosa de ataques que ajuda a dominar com
+         bates rapidamente. Clancy é considerado um personagem forte, estiloso e muito
+          perigoso quando bem utilizado. Título: Casca Grossa
+
+      </p>
+
+    </div>
+      <div class="card">
+
+      <h2>Moe</h2>
+
+      <p>
+       Moe é um brawler da classe Controlador e de raridade Mítica no Brawl Stars.
+        Ele é conhecido pelos seus ataques que pressionam inimigos constantemente
+         e pela capacidade de controlar áreas importantes do mapa. Muitos jogadores
+          gostam do Moe pelo seu estilo estratégico e pela facilidade de atrapalhar
+           adversários durante as partidas. Seu Super cria uma grande área de impacto
+            que dificulta a movimentação inimiga e favorece sua equipe. Moe é considerado
+             um personagem inteligente, irritante de enfrentar e muito útil em modos de objetivo.
+             Título: Ratazana
+
+      </p>
+
+    </div>
+      <div class="card">
+
+      <h2>Juju</h2>
+
+      <p>
+      Juju é uma Brawler Mítica da classe de artilheiros e detonadores no Brawl Stars,
+       famosa por ser a dona do "Bazar das Bizarrices". Sua mecânica principal é adaptar
+        seus ataques ao ambiente em que está e usar seu boneco vodu, Gris-Gris (também 
+        chamado de Gregory), como aliado. Título: Feitiçaria
+      </p>
+
+    </div>
+      <div class="card">
+
+      <h2>Jae-Yong</h2>
+
+      <p>
+       Jae-yong é um brawler da raridade Mítica lançado em abril de 2025 no Brawl Stars.
+        Ele atua na função de suporte e se destaca por conseguir alternar dinamicamente
+         suas habilidades para ajudar o time de duas formas cruciais: oferecendo cura
+          ou bônus de velocidade. Título: Amor fati
+      </p>
+
+    </div>
+      <div class="card">
+
+      <h2>Alli</h2>
+
+      <p>
+      Alli é uma Brawler Mítica da classe Algoz no Brawl Stars, focada em perseguir
+       e eliminar inimigos com pouca vida. Integrante do trio do Pântano dos Pombinhos
+        (junto com Willow e Angelo), ela é conhecida por sua alta mobilidade e mecânicas furtivas. Título: Cuidado com a cuca 
+      </p>
+
+    </div>
+      <div class="card">
+
+      <h2>Mina</h2>
+
+      <p>
+       A Mina é uma Brawler Mítica da classe Destruidora, famosa por suas fortes referências
+        à cultura brasileira (como o visual com chinelos e camisa do Brasil, além de dublagem
+         em português) e sua alta mobilidade baseada em breakdance e capoeira. Título: Furacão
+      </p>
+
+    </div>
+      <div class="card">
+
+      <h2>Ziggy</h2>
+
+      <p>
+       Ziggy (também conhecido como Zig) é um Brawler Mítico da classe de Controle, com uma temática
+        de ilusionista teatral que usa eletricidade. Ele se destaca por atacar através de paredes,
+         invocando raios no chão após um curto atraso, e por sua Super gigante que cobre grandes áreas. Título: O magnífico
+      </p>
+
+    </div>
+      <div class="card">
+
+      <h2>Gigi</h2>
+
+      <p>
+       Gigi é uma Brawler Mítica da classe Algoz, descrita como uma marionete enfeitiçada.
+        Ela é conhecida por sua alta mobilidade, dano explosivo e mecânicas únicas
+         de teletransporte e esquiva Título: Mestre das cordas
+
+      </p>
+
+    </div>
+      <div class="card">
+
+      <h2>Glowy</h2>
+
+      <p>
+       O Glowy (antigo Glowbert) é um Brawler Mítico da classe Suporte focado 
+       em controle de área, pressão e sobrevivência. Ele não é um brawler de 
+       dano bruto, mas sim um personagem estratégico que brilha quando joga junto com a equipe. 
+       Título: Dormindo com peixes
+      </p>
+
+    </div>
+    <div class="card">
+
+      <h2>Starr Nova</h2>
+
+      <p>
+A Starr Nova é uma Brawler Mítica da classe Algoz (Assassina) que trabalha no Starr Toons
+ Studios. Como uma cosplayer otaku, ela acredita ser a própria heroína dos animes. 
+ Ela possui alta velocidade e 7400 de vida (no nível 11), focando em combate corpo a corpo e cura. 
+ Título: Pura magia
+      </p>
+
+    </div>
+      <div class="card">
+
+      <h2>Spike</h2>
+
+      <p>
+Spike é um brawler da classe Destruidor e de raridade Lendária no Brawl Stars.
+ Ele é conhecido pelos seus ataques de espinhos que se espalham ao acertar algo,
+  causando muito dano em diferentes direções. Muitos jogadores gostam do Spike
+   pelo seu estilo simples, mas extremamente forte em várias situações. Seu
+    Super cria uma área de espinhos que desacelera inimigos e causa dano contínuo.
+     Spike é considerado um personagem icônico, irritante de enfrentar e muito
+      poderoso em praticamente qualquer modo de jogo. Título: Sem igual
+
+      </p>
+
+    </div>
+     
+       <div class="card">
+
+      <h2>Corvo</h2>
+
+      <p>
+Corvo é um brawler da classe Assassino e de raridade Lendária no Brawl Stars.
+ Ele é conhecido pelos seus ataques rápidos com veneno, que causam dano contí
+ nuo nos inimigos ao longo do tempo. Muitos jogadores gostam do Corvo pela 
+ sua velocidade e pela capacidade de incomodar adversários constantemente 
+ durante as partidas. Seu Super permite saltar pelos inimigos espalhando
+  várias adagas venenosas ao redor. Corvo é considerado um personagem ágil,
+   irritante de enfrentar e muito forte nas mãos de jogadores habilidosos. Título: Vai encarar?
+
+      </p>
+
+    </div>
+     
+       <div class="card">
+
+      <h2>Leon</h2>
+
+      <p>
+Leon é um brawler da classe Assassino e de raridade Lendária no Brawl Stars.
+ Ele é conhecido pela sua alta velocidade e pela capacidade de ficar invisível 
+ usando seu Super. Muitos jogadores gostam do Leon pelo seu estilo furtivo e
+  pelas eliminações rápidas que consegue fazer ao surpreender inimigos. 
+  Seu Super o deixa invisível por alguns segundos, permitindo ataques 
+  surpresa e fugas rápidas. Leon é considerado um personagem perigoso,
+   habilidoso e muito divertido de jogar. Título: Ninja
+
+      </p>
+
+    </div>
+     
+       <div class="card">
+
+      <h2>Amber</h2>
+
+      <p>
+Amber é uma brawler da classe Destruidora e de raridade Lendária no Brawl Stars.
+ Ela é conhecida por lançar chamas continuamente, causando muito dano enquanto
+  mantém pressão constante nos inimigos. Muitos jogadores gostam da Amber pelo
+   seu estilo agressivo e pela facilidade de controlar áreas do mapa com fogo. 
+   Seu Super derrama combustível no chão, que pode ser incendiado para criar 
+   uma grande área em chamas. Amber é considerada uma personagem forte, irritante
+    de enfrentar e muito perigosa em combates contínuos. Título: Labrareda
+
+      </p>
+
+    </div>
+     
+       <div class="card">
+
+      <h2>Chester</h2>
+
+      <p>
+Chester é um brawler da classe Destruidor e de raridade Lendária no Brawl Stars.
+ Ele é conhecido pelo seu estilo imprevisível e pelos Supers aleatórios que podem
+  mudar completamente o rumo das partidas. Muitos jogadores gostam do Chester
+   pela diversão e pelo caos que ele traz durante os combates. Seus ataques
+    variam conforme a quantidade de sinos acumulados, aumentando ainda mais 
+    sua versatilidade. Chester é considerado um personagem engraçado, imprevisível
+     e muito divertido de jogar. Título: Coringa
+
+      </p>
+
+    </div>
+     
+       <div class="card">
+
+      <h2>Cordelius</h2>
+
+      <p>
+Cordelius é um brawler da classe Assassino e de raridade Lendária no Brawl Stars.
+ Ele é conhecido pelos seus ataques venenosos e pela capacidade de isolar inimigos
+  em uma dimensão separada usando seu Super. Muitos jogadores gostam do Cordelius
+   pelo seu estilo sombrio e pelas eliminações rápidas que consegue fazer em duelos
+    individuais. Seu Super leva um inimigo para o Reino das Sombras, onde os dois
+     lutam sozinhos por alguns segundos. Cordelius é considerado um personagem perigoso,
+      irritante de enfrentar e muito forte em combates um contra um. Título: Tóxico
+
+      </p>
+
+    </div>
+     
+       <div class="card">
+
+      <h2>Kit</h2>
+
+      <p>
+Kit é um brawler da classe Suporte e de raridade Lendária no Brawl Stars.
+ Ele é conhecido pela sua mobilidade e pela capacidade de ajudar aliados 
+ enquanto atrapalha inimigos durante as partidas. Muitos jogadores gostam
+  do Kit pelo seu estilo divertido e pelas jogadas inesperadas que consegue
+   fazer. Seu Super permite se prender em aliados para fortalecê-los ou 
+   saltar em inimigos para atacá-los diretamente. Kit é considerado um 
+   personagem versátil, caótico e muito útil em equipe. Título: Miau
+
+      </p>
+
+    </div>
+     
+       <div class="card">
+
+      <h2>Draco</h2>
+
+      <p>
+Draco é um brawler da classe Tanque e de raridade Lendária no Brawl Stars.
+ Ele é conhecido pela sua grande resistência e pelos ataques fortes de 
+ curta distância que causam muita pressão nos inimigos. Muitos jogadores
+  gostam do Draco pelo seu estilo agressivo e pela capacidade de dominar 
+  combates próximos facilmente. Seu Super libera um poderoso ataque em
+   área que ajuda a iniciar lutas e controlar adversários. Draco 
+   é considerado um personagem resistente, perigoso e muito forte
+    quando usado de forma ofensiva. Título: Mestre da Masmorra
+
+      </p>
+
+    </div>
+     
+       <div class="card">
+
+      <h2>Kenji</h2>
+
+      <p>
+Kenji é um brawler da classe Assassino e de raridade Lendária no Brawl Stars. 
+Ele é conhecido pelos seus ataques rápidos com espada e pela alta mobilidade
+ durante as batalhas. Muitos jogadores gostam do Kenji pelo seu estilo habili
+ doso e pelas eliminações rápidas que consegue fazer ao surpreender inimigos.
+  Seu Super permite avançar velozmente causando dano em sequência nos adversá
+  rios pelo caminho. Kenji é considerado um personagem ágil, estiloso e muito
+   perigoso nas mãos certas.
+ Título: Samurai
+      </p>
+
+    </div>
+     
+       <div class="card">
+
+      <h2>Sandy</h2>
+
+      <p>
+Sandy é um brawler da classe Controlador e de raridade Lendária no Brawl Stars.
+ Ele é conhecido pelos seus ataques de areia e pela capacidade de ajudar aliados
+  a se esconderem durante as partidas. Muitos jogadores gostam do Sandy pelo
+   seu estilo estratégico e pela utilidade que oferece em equipe. Seu Super
+    cria uma grande tempestade de areia que deixa aliados invisíveis dentro
+     da área. Sandy é considerado um personagem inteligente, irritante de 
+     enfrentar e muito forte em modos de controle.
+
+ Título: Soneca
+      </p>
+
+    </div>
+     
+       <div class="card">
+
+      <h2>Meg</h2>
+
+      <p>
+Meg é uma brawler da classe Destruidora e de raridade Lendária no Brawl Stars.
+ Ela é conhecida por lutar usando um poderoso robô mecânico que aumenta muito
+  sua força nas batalhas. Muitos jogadores gostam da Meg pela sua versatilidade
+   e pela capacidade de alternar entre combate normal e modo robô. Seu Super 
+   invoca seu grande mecha, aumentando resistência e dano significativamente.
+    Meg é considerada uma personagem forte, estratégica e muito perigosa quando
+     está dentro do robô.
+
+ Título: Suporte Técnico
+      </p>
+
+    </div>
+     
+       <div class="card">
+
+      <h2>Surge</h2>
+
+      <p>
+Surge é um brawler da classe Destruidor e de raridade Lendária no Brawl Stars.
+ Ele é conhecido pela capacidade de evoluir durante a partida, ficando cada
+  vez mais forte e rápido conforme usa seu Super. Muitos jogadores gostam do
+   Surge pelo seu estilo divertido e pela força que consegue alcançar no final 
+   das batalhas. Seu Super faz ele saltar causando dano em área e ainda melhora
+    uma de suas habilidades. Surge é considerado um personagem poderoso, estiloso
+     e muito perigoso quando totalmente evoluído. Título: Broder
+
+      </p>
+
+    </div>
+     
+       <div class="card">
+
+      <h2>Pierce</h2>
+
+      <p>
+O Pierce é um Brawler Lendário da classe de tiro preciso (sniper) no Brawl Stars,
+ conhecido por ser um salva-vidas rabugento que atira nas pessoas em vez de salvá
+ -las. Sua mecânica única de recarga e esferas exige bastante precisão Título: Código Amarelo
+
+      </p>
+
+    </div>
+     
+       <div class="card">
+
+      <h2>Kaze</h2>
+
+      <p>
+Kaze é uma Brawler Ultra Lendária de Brawl Stars. A assassina, que possui velocidade altíssima
+ e mecânica dupla, foi criada para ser uma arma ninja, mas fugiu para o Starr Park para viver
+  seu sonho de ser gueixa e abrir um restaurante.  Título: Ninja
+      </p>
+
+    </div>
+      <div class="card">
+
+      <h2>Sirius</h2>
+
+      <p>
+Sirius é o 100º brawler do Brawl Stars,
+ pertencente à raridade Ultra Lendária.
+  Ele é um mestre das sombras e vilão
+   da história do Starr Park. Suas
+    mecânicas misturam longo alcance
+     com controle de invocações,
+      destacando-se por criar cópias 
+      dos personagens que atacam os inimigos Título: Renegado
+      </p>
+
+    </div>
+     
+     
+     
+     
+
+      
+    
+  </div>
+
+</body>
+</html>
